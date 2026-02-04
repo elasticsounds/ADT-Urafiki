@@ -1,0 +1,1125 @@
+{
+  "Acting": {
+    "word": "Acting",
+    "definition": "Performing the duties of a specific post temporarily when the post holder is absent.",
+    "variations": [],
+    "emoji": "⏱️🔄"
+  },
+  "All rights reserved": {
+    "word": "All rights reserved",
+    "definition": "A statement meaning the rights holder has retained their rights; you are not allowed to use the work without their permission.",
+    "variations": [
+      "All rights reserved",
+      "Copyright reserved",
+      "All rights reserved"
+    ],
+    "emoji": "©️🔒"
+  },
+  "Approve": {
+    "word": "Approve",
+    "definition": "To grant official permission or agree to something.",
+    "variations": [
+      "authorisation",
+      "approved",
+      "approval"
+    ],
+    "emoji": "✅👍"
+  },
+  "Authorisation": {
+    "word": "Authorisation",
+    "definition": "Official permission that enables you to do something.",
+    "variations": [
+      "authorisation",
+      "written permission",
+      "permit"
+    ],
+    "emoji": "✅📝"
+  },
+  "Book": {
+    "word": "Book",
+    "definition": "A collection of bound pages containing text or images.",
+    "variations": [
+      "books"
+    ],
+    "emoji": "📖"
+  },
+  "Certificate": {
+    "word": "Certificate",
+    "definition": "An official document that shows proof of something, such as qualification or permission.",
+    "variations": [
+      "certificates"
+    ],
+    "emoji": "📜✅"
+  },
+  "Certification": {
+    "word": "Certification",
+    "definition": "Official confirmation that something has been examined and approved.",
+    "variations": [],
+    "emoji": "✅🛡️"
+  },
+  "Commissioner": {
+    "word": "Commissioner",
+    "definition": "A senior official who leads or oversees a department or a specific area.",
+    "variations": [
+      "commissioners"
+    ],
+    "emoji": "🧑‍💼🏛️"
+  },
+  "Date": {
+    "word": "Date",
+    "definition": "A specific day on the calendar.",
+    "variations": [],
+    "emoji": "📅"
+  },
+  "Dog": {
+    "word": "Dog",
+    "definition": "A domesticated animal often kept at home; can be a guard or a friend.",
+    "variations": [],
+    "emoji": "🐶🐾"
+  },
+  "Duplicate": {
+    "word": "Duplicate",
+    "definition": "To make multiple copies of the same thing.",
+    "variations": [
+      "to duplicate",
+      "duplicate",
+      "to make copies"
+    ],
+    "emoji": "🖨️📄"
+  },
+  "Edition": {
+    "word": "Edition",
+    "definition": "A specific version of a book published at a particular time, for example, the first edition.",
+    "variations": [
+      "edition",
+      "editions",
+      "First edition"
+    ],
+    "emoji": "📖🔢"
+  },
+  "Education": {
+    "word": "Education",
+    "definition": "Knowledge and skills people acquire through learning.",
+    "variations": [],
+    "emoji": "📚🎓"
+  },
+  "Email": {
+    "word": "Email",
+    "definition": "An electronic message sent over the internet to a user's specific address.",
+    "variations": [
+      "email",
+      "e-mail",
+      "email address"
+    ],
+    "emoji": "✉️📧"
+  },
+  "Extra": {
+    "word": "Extra",
+    "definition": "Addition; something extra that is not required.",
+    "variations": [],
+    "emoji": "➕"
+  },
+  "Fax": {
+    "word": "Fax",
+    "definition": "A method of sending a copy of a paper document using a special communications machine (fax).",
+    "variations": [
+      "fax"
+    ],
+    "emoji": "📠📄"
+  },
+  "Friendship": {
+    "word": "Friendship",
+    "definition": "A positive relationship of mutual love and support between people or other beings.",
+    "variations": [],
+    "emoji": "🤝❤️"
+  },
+  "Human being": {
+    "word": "Human being",
+    "definition": "An intelligent being with the ability to think who lives in society.",
+    "variations": [],
+    "emoji": "👤🧑"
+  },
+  "ISBN": {
+    "word": "ISBN",
+    "definition": "A unique international number that identifies a book.",
+    "variations": [
+      "ISBN-13",
+      "ISBN-10"
+    ],
+    "emoji": "🔢📗"
+  },
+  "Institution": {
+    "word": "Institution",
+    "definition": "An organisation established for a specific purpose, e.g., education or research.",
+    "variations": [],
+    "emoji": "🏫🏢"
+  },
+  "Jackal": {
+    "word": "Jackal",
+    "definition": "A small, cunning wild animal; it eats small animals or scraps.",
+    "variations": [
+      "jackal (singular)",
+      "jackals (plural)"
+    ],
+    "emoji": "🦊"
+  },
+  "Ministry": {
+    "word": "Ministry",
+    "definition": "The main government department that oversees a specific area, such as education.",
+    "variations": [],
+    "emoji": "🏛️🏢"
+  },
+  "Month": {
+    "word": "Month",
+    "definition": "A period of approximately 30 days in a year; also the names of the months.",
+    "variations": [
+      "months"
+    ],
+    "emoji": "🗓️"
+  },
+  "Not permitted": {
+    "word": "Not permitted",
+    "definition": "It is not acceptable to do; it has been prohibited by the authority.",
+    "variations": [
+      "not allowed",
+      "not acceptable",
+      "prohibited"
+    ],
+    "emoji": "🚫🙅‍♂️"
+  },
+  "P.O. Box (Post Office Box)": {
+    "word": "P.O. Box (Post Office Box)",
+    "definition": "A post office box used to receive letters and parcels.",
+    "variations": [
+      "P.O. Box",
+      "Post Office Box",
+      "P.O. Box"
+    ],
+    "emoji": "📮📫"
+  },
+  "Phone": {
+    "word": "Phone",
+    "definition": "A device used to make and receive voice calls or messages.",
+    "variations": [
+      "phone",
+      "phone number"
+    ],
+    "emoji": "📞📱"
+  },
+  "Pre-primary Education": {
+    "word": "Pre-primary Education",
+    "definition": "Education for young children before starting Standard One.",
+    "variations": [
+      "pre-primary school"
+    ],
+    "emoji": "👧📚"
+  },
+  "Print": {
+    "word": "Print",
+    "definition": "To produce text or images on paper or another medium using a printing machine.",
+    "variations": [
+      "print",
+      "to print",
+      "printing"
+    ],
+    "emoji": "🖨️🗞️"
+  },
+  "Project": {
+    "word": "Project",
+    "definition": "An organised undertaking with a specific objective and an implementation timeframe.",
+    "variations": [
+      "project",
+      "projects"
+    ],
+    "emoji": "📋🎯"
+  },
+  "Publication": {
+    "word": "Publication",
+    "definition": "A written work that has been published, such as a book or booklet.",
+    "variations": [
+      "publications"
+    ],
+    "emoji": "📘📰"
+  },
+  "Publisher": {
+    "word": "Publisher",
+    "definition": "A person or organisation that publishes books or other publications.",
+    "variations": [
+      "publishers"
+    ],
+    "emoji": "🏢🖨️"
+  },
+  "Republic": {
+    "word": "Republic",
+    "definition": "A form of government in which citizens elect their leaders.",
+    "variations": [],
+    "emoji": "🏛️🗳️"
+  },
+  "Science": {
+    "word": "Science",
+    "definition": "A method of understanding the world through observation and experimentation.",
+    "variations": [],
+    "emoji": "🔬🧪"
+  },
+  "Technology": {
+    "word": "Technology",
+    "definition": "The use of knowledge and tools to solve problems or make work easier.",
+    "variations": [],
+    "emoji": "💻🔧"
+  },
+  "To copy": {
+    "word": "To copy",
+    "definition": "To write or take words/work exactly as they are from another source.",
+    "variations": [
+      "to copy",
+      "copy",
+      "a copy"
+    ],
+    "emoji": "📄📋"
+  },
+  "Translate": {
+    "word": "Translate",
+    "definition": "Changing words from one language to another.",
+    "variations": [
+      "translate",
+      "translation",
+      "translator"
+    ],
+    "emoji": "🔁🌐"
+  },
+  "Union": {
+    "word": "Union",
+    "definition": "The uniting of two or more things or areas into one.",
+    "variations": [
+      "unions"
+    ],
+    "emoji": "🔗🤝"
+  },
+  "Website": {
+    "word": "Website",
+    "definition": "An online location that contains information; you access it via its address in a browser.",
+    "variations": [
+      "website",
+      "web",
+      "network of websites"
+    ],
+    "emoji": "🌐💻"
+  },
+  "Writer": {
+    "word": "Writer",
+    "definition": "A person who writes texts such as books or stories.",
+    "variations": [
+      "writers"
+    ],
+    "emoji": "✍️🖋️"
+  },
+  "Year": {
+    "word": "Year",
+    "definition": "A period of 12 months.",
+    "variations": [
+      "years"
+    ],
+    "emoji": "📆⏳"
+  },
+  "about": {
+    "word": "about",
+    "definition": "A word that indicates the topic of something; it shows that something concerns a particular thing.",
+    "variations": [
+      "about"
+    ],
+    "emoji": "i️📌"
+  },
+  "after": {
+    "word": "after",
+    "definition": "The time that follows another event.",
+    "variations": [
+      "after",
+      "later"
+    ],
+    "emoji": "⏭️➡️"
+  },
+  "agreement": {
+    "word": "agreement",
+    "definition": "A mutual decision accepted by two or more parties.",
+    "variations": [
+      "agreement"
+    ],
+    "emoji": "🤝📄"
+  },
+  "all": {
+    "word": "all",
+    "definition": "Everything or everyone; without exception.",
+    "variations": [
+      "all of it",
+      "everyone",
+      "everything",
+      "all of them"
+    ],
+    "emoji": "♾️🧺"
+  },
+  "also": {
+    "word": "also",
+    "definition": "A word used to indicate the addition of another thing; likewise.",
+    "variations": [
+      "also"
+    ],
+    "emoji": "➕🔁"
+  },
+  "and him/her": {
+    "word": "and him/her",
+    "definition": "\"And him/her\"; indicates that the person is also included in the event or group.",
+    "variations": [
+      "and him/her"
+    ],
+    "emoji": "➕👤"
+  },
+  "animal": {
+    "word": "animal",
+    "definition": "A living creature such as a dog, cat, chicken, or elephant.",
+    "variations": [
+      "animal",
+      "animals"
+    ],
+    "emoji": "🐘🐶"
+  },
+  "animals": {
+    "word": "animals",
+    "definition": "Creatures such as cattle, goats, birds, etc.; not humans or plants.",
+    "variations": [
+      "animal",
+      "animals"
+    ],
+    "emoji": "🐄🐐🐾"
+  },
+  "answer": {
+    "word": "answer",
+    "definition": "To say or write information in response to a question.",
+    "variations": [
+      "to answer",
+      "answer",
+      "he/she answered",
+      "answers"
+    ],
+    "emoji": "✅💬"
+  },
+  "arrive": {
+    "word": "arrive",
+    "definition": "To arrive at a certain place.",
+    "variations": [
+      "to arrive",
+      "arrives",
+      "arrived",
+      "when he/she arrived"
+    ],
+    "emoji": "📍"
+  },
+  "ask": {
+    "word": "ask",
+    "definition": "To seek to know by asking a question.",
+    "variations": [
+      "to ask",
+      "ask",
+      "he/she asked",
+      "they asked him/her"
+    ],
+    "emoji": "❓🗣️"
+  },
+  "big": {
+    "word": "big",
+    "definition": "Of large size or degree; not small.",
+    "variations": [
+      "big",
+      "large",
+      "big ones"
+    ],
+    "emoji": "⬆️📏"
+  },
+  "blow": {
+    "word": "blow",
+    "definition": "The rapid movement of wind, often producing sound.",
+    "variations": [
+      "blow",
+      "to blow"
+    ],
+    "emoji": "💨🌬️"
+  },
+  "burn": {
+    "word": "burn",
+    "definition": "To emit heat or light; to be in a state of burning.",
+    "variations": [
+      "burn",
+      "to burn"
+    ],
+    "emoji": "🔥✨"
+  },
+  "burn; roast; grill; pierce": {
+    "word": "burn; roast; grill; pierce",
+    "definition": "To burn or cook over a fire; sometimes to pierce with a pointed object.",
+    "variations": [
+      "burn; roast; grill; pierce",
+      "to burn; to roast; to grill; to pierce"
+    ],
+    "emoji": "🔥🍢"
+  },
+  "but": {
+    "word": "but",
+    "definition": "A conjunction that indicates a contrast or the opposite of the preceding idea.",
+    "variations": [
+      "but"
+    ],
+    "emoji": "↔️⚖️"
+  },
+  "cassava": {
+    "word": "cassava",
+    "definition": "An edible root grown in fields and eaten after being cooked or dried.",
+    "variations": [
+      "cassava",
+      "cassavas"
+    ],
+    "emoji": "🍠🌿"
+  },
+  "chase": {
+    "word": "chase",
+    "definition": "To run after someone in order to catch them; to make someone else run.",
+    "variations": [
+      "to chase",
+      "he/she chased him/her"
+    ],
+    "emoji": "🏃‍♂️👣"
+  },
+  "chase away": {
+    "word": "chase away",
+    "definition": "To remove a person or animal by force or by chasing them off.",
+    "variations": [
+      "to chase away",
+      "to chase him/her away"
+    ],
+    "emoji": "✋🏃‍♂️"
+  },
+  "child": {
+    "word": "child",
+    "definition": "A young person who is growing; often a pre-primary or primary school pupil.",
+    "variations": [
+      "child",
+      "children"
+    ],
+    "emoji": "🧒👧"
+  },
+  "club": {
+    "word": "club",
+    "definition": "A heavy wooden stick with a knobbed head, used as a weapon or for self-defence.",
+    "variations": [
+      "clubs"
+    ],
+    "emoji": "🪵🦯"
+  },
+  "cooperate": {
+    "word": "cooperate",
+    "definition": "To do something together with others; to help one another in order to accomplish a goal or task.",
+    "variations": [
+      "to cooperate",
+      "they cooperated",
+      "cooperation"
+    ],
+    "emoji": "🤝👥"
+  },
+  "crops": {
+    "word": "crops",
+    "definition": "Things obtained from farming, such as maize or cassava.",
+    "variations": [
+      "crop",
+      "crops"
+    ],
+    "emoji": "🧺🌾"
+  },
+  "day": {
+    "word": "day",
+    "definition": "A 24-hour period consisting of day and night.",
+    "variations": [
+      "day"
+    ],
+    "emoji": "📅🌞🌙"
+  },
+  "dog": {
+    "word": "dog",
+    "definition": "A domesticated animal; it guards, plays, and is a friend to humans.",
+    "variations": [
+      "dog"
+    ],
+    "emoji": "🐶"
+  },
+  "eat": {
+    "word": "eat",
+    "definition": "To put food into the mouth, chew, and swallow; 'to be eaten' is to receive that action (passive).",
+    "variations": [
+      "eat",
+      "be eaten"
+    ],
+    "emoji": "🍴😋"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "All the things that surround us, such as air, water, trees, soil, and living organisms.",
+    "variations": [
+      "environment"
+    ],
+    "emoji": "🌍🌿"
+  },
+  "explain": {
+    "word": "explain",
+    "definition": "Provide explanations so that others can understand clearly.",
+    "variations": [
+      "to explain",
+      "explain",
+      "he/she explained to them",
+      "he/she is explaining"
+    ],
+    "emoji": "🗣️💬"
+  },
+  "extinguish": {
+    "word": "extinguish",
+    "definition": "To extinguish a fire or light so that it does not continue to burn or shine.",
+    "variations": [
+      "extinguish",
+      "to extinguish"
+    ],
+    "emoji": "🧯🚿"
+  },
+  "farm": {
+    "word": "farm",
+    "definition": "A piece of land where people grow crops for food or for commercial purposes.",
+    "variations": [
+      "farm",
+      "on the farm",
+      "farms"
+    ],
+    "emoji": "🌾🚜"
+  },
+  "fire": {
+    "word": "fire",
+    "definition": "Something that burns and gives off heat and light.",
+    "variations": [
+      "fire",
+      "fires"
+    ],
+    "emoji": "🔥"
+  },
+  "first": {
+    "word": "first",
+    "definition": "First; number 1 in a series.",
+    "variations": [
+      "first",
+      "first",
+      "first"
+    ],
+    "emoji": "1️⃣🥇"
+  },
+  "fox": {
+    "word": "fox",
+    "definition": "A wild animal of the dog family; small and with a bushy tail.",
+    "variations": [
+      "fox"
+    ],
+    "emoji": "🦊"
+  },
+  "harsh": {
+    "word": "harsh",
+    "definition": "Very strong or producing a large effect; it can hurt.",
+    "variations": [
+      "harsh",
+      "harsh",
+      "harsh"
+    ],
+    "emoji": "💪⚠️"
+  },
+  "home": {
+    "word": "home",
+    "definition": "The place where you live; in the house.",
+    "variations": [
+      "house"
+    ],
+    "emoji": "🏠🛋️"
+  },
+  "human being": {
+    "word": "human being",
+    "definition": "A person; an intelligent being capable of thinking and speaking.",
+    "variations": [
+      "human being",
+      "human beings"
+    ],
+    "emoji": "😀🧠"
+  },
+  "in the wild": {
+    "word": "in the wild",
+    "definition": "An area in the wild, far from human settlements.",
+    "variations": [
+      "wilderness",
+      "wildernesses"
+    ],
+    "emoji": "🌳🌿"
+  },
+  "incinerate": {
+    "word": "incinerate",
+    "definition": "To burn or completely destroy by fire until nothing remains.",
+    "variations": [
+      "incinerate",
+      "to incinerate"
+    ],
+    "emoji": "🔥⚠️"
+  },
+  "kindle a fire": {
+    "word": "kindle a fire",
+    "definition": "To place and arrange firewood, etc., so that a fire starts burning; to light a fire.",
+    "variations": [
+      "kindle a fire",
+      "kindled a fire"
+    ],
+    "emoji": "🔥🪵"
+  },
+  "list": {
+    "word": "list",
+    "definition": "To say or write the names of items in succession.",
+    "variations": [
+      "list",
+      "to list"
+    ],
+    "emoji": "📝📋"
+  },
+  "maize": {
+    "word": "maize",
+    "definition": "A cereal grown and eaten as food; its kernels are yellow or white.",
+    "variations": [
+      "maize"
+    ],
+    "emoji": "🌽🍽️"
+  },
+  "now": {
+    "word": "now",
+    "definition": "At this time; at the present time or right now.",
+    "variations": [
+      "now"
+    ],
+    "emoji": "⏰"
+  },
+  "on the farm": {
+    "word": "on the farm",
+    "definition": "A place for cultivation; on a farm.",
+    "variations": [
+      "farm",
+      "farms"
+    ],
+    "emoji": "🌾🚜"
+  },
+  "once upon a time": {
+    "word": "once upon a time",
+    "definition": "Words used to begin a story; they mean a long time ago.",
+    "variations": [
+      "long, long ago",
+      "long ago",
+      "in the past"
+    ],
+    "emoji": "⏳📖"
+  },
+  "picture": {
+    "word": "picture",
+    "definition": "A drawing or image that shows an object, a person, or an animal.",
+    "variations": [
+      "picture"
+    ],
+    "emoji": "🖼️"
+  },
+  "protect": {
+    "word": "protect",
+    "definition": "To keep safe; to take care of so that it is not affected or harmed.",
+    "variations": [
+      "protect",
+      "to protect"
+    ],
+    "emoji": "🛡️🔒"
+  },
+  "run towards": {
+    "word": "run towards",
+    "definition": "To run towards a particular place.",
+    "variations": [
+      "to run towards",
+      "he/she ran towards"
+    ],
+    "emoji": "🏃‍♂️🎯"
+  },
+  "sadness": {
+    "word": "sadness",
+    "definition": "A feeling of sadness or of feeling bad.",
+    "variations": [
+      "sadness",
+      "sadly",
+      "sad"
+    ],
+    "emoji": "😢💔"
+  },
+  "second": {
+    "word": "second",
+    "definition": "The 2nd in order; follows the first.",
+    "variations": [
+      "the second",
+      "the second",
+      "the second"
+    ],
+    "emoji": "2️⃣➡️"
+  },
+  "so that": {
+    "word": "so that",
+    "definition": "A word that indicates purpose or reason for doing something (for the sake of).",
+    "variations": [
+      "so that"
+    ],
+    "emoji": "🎯"
+  },
+  "source": {
+    "word": "source",
+    "definition": "The origin or cause of something.",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "🔰📍"
+  },
+  "starting from": {
+    "word": "starting from",
+    "definition": "To start from a particular time or place.",
+    "variations": [
+      "starting from",
+      "start from"
+    ],
+    "emoji": "🟢➡️"
+  },
+  "struggle": {
+    "word": "struggle",
+    "definition": "To keep oneself very busy trying to do something, often restlessly or without success.",
+    "variations": [
+      "struggle",
+      "to struggle"
+    ],
+    "emoji": "😣😰"
+  },
+  "succeed": {
+    "word": "succeed",
+    "definition": "To achieve good results in what you set out to do.",
+    "variations": [
+      "succeed",
+      "to succeed"
+    ],
+    "emoji": "✅🏆"
+  },
+  "take": {
+    "word": "take",
+    "definition": "To lift or carry something from one place to another.",
+    "variations": [
+      "to take",
+      "he/she took"
+    ],
+    "emoji": "✋📦"
+  },
+  "teacher": {
+    "word": "teacher",
+    "definition": "A person who teaches and guides students in school.",
+    "variations": [
+      "teacher",
+      "teachers"
+    ],
+    "emoji": "👩‍🏫👨‍🏫📚"
+  },
+  "three": {
+    "word": "three",
+    "definition": "Number 3; the quantity that comes after two.",
+    "variations": [
+      "three",
+      "third"
+    ],
+    "emoji": "3️⃣"
+  },
+  "timidity": {
+    "word": "timidity",
+    "definition": "A state of feeling weak, ashamed, or lacking courage.",
+    "variations": [
+      "timidity",
+      "timidly",
+      "timid person"
+    ],
+    "emoji": "😔🙇"
+  },
+  "to act": {
+    "word": "to act",
+    "definition": "To perform or portray through actions as if it were a real event.",
+    "variations": [
+      "to act",
+      "let them act",
+      "I'm acting"
+    ],
+    "emoji": "🎭🤹"
+  },
+  "to agree": {
+    "word": "to agree",
+    "definition": "To say yes or consent to a proposal or plan.",
+    "variations": [
+      "to agree"
+    ],
+    "emoji": "👍🤝"
+  },
+  "to be consumed by fire": {
+    "word": "to be consumed by fire",
+    "definition": "To burn completely in a fire until it is gone.",
+    "variations": [
+      "to be consumed by fire",
+      "they have been consumed by fire",
+      "it has been consumed by fire"
+    ],
+    "emoji": "🔥💥"
+  },
+  "to be happy": {
+    "word": "to be happy",
+    "definition": "To feel good and joyful; to be happy.",
+    "variations": [
+      "to be happy",
+      "happiness"
+    ],
+    "emoji": "😊🎉"
+  },
+  "to be saddened": {
+    "word": "to be saddened",
+    "definition": "To feel sadness or sorrow about a bad thing that has happened.",
+    "variations": [
+      "to be saddened",
+      "they were saddened",
+      "I am saddened"
+    ],
+    "emoji": "😢💔"
+  },
+  "to be surprised": {
+    "word": "to be surprised",
+    "definition": "To feel surprise at something you did not expect.",
+    "variations": [
+      "to be surprised",
+      "they were surprised",
+      "I am surprised"
+    ],
+    "emoji": "😮❗"
+  },
+  "to chase away": {
+    "word": "to chase away",
+    "definition": "To chase a person or animal away.",
+    "variations": [
+      "chase away",
+      "to chase away",
+      "he/she chased him/her away",
+      "to be chased away"
+    ],
+    "emoji": "🏃‍♂️➡️🚫"
+  },
+  "to continue": {
+    "word": "to continue",
+    "definition": "To move forward or do something without stopping.",
+    "variations": [
+      "to continue",
+      "continue",
+      "is continuing"
+    ],
+    "emoji": "🔁➡️"
+  },
+  "to damage": {
+    "word": "to damage",
+    "definition": "To make something bad or unable to work.",
+    "variations": [
+      "damage",
+      "to damage",
+      "things that damage"
+    ],
+    "emoji": "💥🗑️"
+  },
+  "to draw": {
+    "word": "to draw",
+    "definition": "To make a drawing with a pen, pencil, or paint on paper.",
+    "variations": [
+      "to draw",
+      "he/she draws",
+      "we draw"
+    ],
+    "emoji": "✏️🎨"
+  },
+  "to go": {
+    "word": "to go",
+    "definition": "To move or travel towards a place.",
+    "variations": [
+      "to go",
+      "to go",
+      "he/she is going",
+      "he/she went"
+    ],
+    "emoji": "🚶➡️"
+  },
+  "to guide": {
+    "word": "to guide",
+    "definition": "To show the way or guide people to do something well and safely.",
+    "variations": [
+      "to guide",
+      "let them guide",
+      "he/she is guiding"
+    ],
+    "emoji": "🧭➡️"
+  },
+  "to inspect": {
+    "word": "to inspect",
+    "definition": "To look carefully to determine the condition or quality of something.",
+    "variations": [
+      "to inspect",
+      "inspect",
+      "inspected",
+      "inspecting"
+    ],
+    "emoji": "🔍🧐"
+  },
+  "to live": {
+    "word": "to live",
+    "definition": "To be alive or to live/stay in a place. Example: waliishi = they continued to live/stay.",
+    "variations": [
+      "to live",
+      "he/she lives",
+      "they lived",
+      "live (habitually)"
+    ],
+    "emoji": "🏠🌱"
+  },
+  "to plant": {
+    "word": "to plant",
+    "definition": "To put seeds or seedlings in the soil so they grow.",
+    "variations": [
+      "to plant",
+      "plant",
+      "they planted"
+    ],
+    "emoji": "🌱👩‍🌾"
+  },
+  "to rear animals": {
+    "word": "to rear animals",
+    "definition": "To care for and rear animals at home or on the farm.",
+    "variations": [
+      "rear",
+      "to rear animals",
+      "animals being reared"
+    ],
+    "emoji": "🐔🏠🐄"
+  },
+  "to return": {
+    "word": "to return",
+    "definition": "To go back to where you came from.",
+    "variations": [
+      "to return",
+      "return",
+      "he/she returned",
+      "he/she is returning"
+    ],
+    "emoji": "🔙🏠"
+  },
+  "to roast": {
+    "word": "to roast",
+    "definition": "To cook or burn with fire, often over charcoal or open flames.",
+    "variations": [
+      "to roast",
+      "he/she is roasting",
+      "let him/her roast",
+      "he/she roasted"
+    ],
+    "emoji": "🔥🍢"
+  },
+  "to see": {
+    "word": "to see",
+    "definition": "To look with the eyes; to discover something by sight.",
+    "variations": [
+      "to see"
+    ],
+    "emoji": "👀"
+  },
+  "to speak": {
+    "word": "to speak",
+    "definition": "To utter words aloud; to talk.",
+    "variations": [
+      "to speak"
+    ],
+    "emoji": "🗣️💬"
+  },
+  "to take care of": {
+    "word": "to take care of",
+    "definition": "To look after and protect something so it does not get damaged; to keep it safe.",
+    "variations": [
+      "to take care of",
+      "he/she is taking care of",
+      "we are taking care of"
+    ],
+    "emoji": "🛡️🌱"
+  },
+  "to understand": {
+    "word": "to understand",
+    "definition": "To know or understand something.",
+    "variations": [
+      "understand",
+      "to understand"
+    ],
+    "emoji": "🧠💡"
+  },
+  "together": {
+    "word": "together",
+    "definition": "To be with others; not alone.",
+    "variations": [
+      "together",
+      "collectively",
+      "together with"
+    ],
+    "emoji": "🤝👫"
+  },
+  "turn": {
+    "word": "turn",
+    "definition": "The period for each person to do work or a duty in sequence (e.g., working in shifts).",
+    "variations": [
+      "turn"
+    ],
+    "emoji": "🔁⏰"
+  },
+  "why": {
+    "word": "why",
+    "definition": "A question that asks for a reason.",
+    "variations": [
+      "why",
+      "why",
+      "for what reason"
+    ],
+    "emoji": "❓🤔"
+  },
+  "wilderness": {
+    "word": "wilderness",
+    "definition": "A large area with trees or grass without human settlements.",
+    "variations": [
+      "wilderness",
+      "wilderness areas",
+      "in the wilderness"
+    ],
+    "emoji": "🌳🌾"
+  },
+  "wind": {
+    "word": "wind",
+    "definition": "Air that moves from one place to another.",
+    "variations": [
+      "wind"
+    ],
+    "emoji": "💨🌬️"
+  },
+  "work": {
+    "word": "work",
+    "definition": "An activity you do to fulfil duties or earn income. The expression 'to work' means to perform an activity.",
+    "variations": [
+      "to work",
+      "he/she works",
+      "worker",
+      "workers"
+    ],
+    "emoji": "🛠️💼👷"
+  }
+}
