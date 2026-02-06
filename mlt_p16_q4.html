@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="sw-tz">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title></title>
+  <meta content="mlt_p16_q4" name="title-id"/>
+  <meta content="23" name="page-section-id"/>
+  <link href="./content/tailwind_output.css" rel="stylesheet"/>
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"/>
+  <link href="./assets/fonts.css" rel="stylesheet"/>
+ </head>
+ <body class="min-h-screen flex items-center justify-center">
+  <style>
+   .ms-grid{display:grid;grid-template-columns:1fr;gap:1rem;max-width:42rem;margin:0 auto}
+   @media(min-width:768px){.ms-grid{grid-template-columns:1fr 1fr}}
+   .ms-option{position:relative;cursor:pointer;border-radius:1rem;border:2px solid #111827;background:#FFFAF5;padding:1.25rem 1.5rem;text-align:center;box-shadow:0 6px 0 0 rgba(0,0,0,0.65);transition:all 0.2s ease;user-select:none;-webkit-user-select:none}
+   .ms-option:hover:not(.ms-checked):not(.ms-dimmed){transform:translateY(-2px);box-shadow:0 8px 0 0 rgba(0,0,0,0.55)}
+   .ms-option:focus-visible{outline:3px solid #3b82f6;outline-offset:2px}
+   .ms-option.ms-selected{border-color:#1d4ed8;border-width:3px;background-color:rgba(59,130,246,0.12);box-shadow:0 8px 0 rgba(29,78,216,0.35);transform:translateY(-3px)}
+   .ms-option.ms-dimmed{opacity:0.4;cursor:default}
+   .ms-option.ms-correct{border-color:#16a34a!important;border-width:3px;background-color:rgba(34,197,94,0.12)!important;box-shadow:0 6px 0 0 rgba(22,163,74,0.4)!important;cursor:default}
+   .ms-option.ms-incorrect{border-color:#dc2626!important;border-width:3px;background-color:rgba(239,68,68,0.1)!important;box-shadow:0 6px 0 0 rgba(220,38,38,0.3)!important;cursor:default}
+   .ms-check{display:none;position:absolute;top:-10px;right:-10px;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#fff;align-items:center;justify-content:center;font-size:16px;font-weight:bold}
+   .ms-option.ms-selected .ms-check{display:flex}
+   .ms-result-icon{display:none;position:absolute;top:-10px;right:-10px;width:30px;height:30px;border-radius:50%;color:#fff;align-items:center;justify-content:center;font-size:16px;font-weight:bold}
+   .ms-btn-check{display:inline-block;padding:0.875rem 2.5rem;border-radius:1rem;border:2px solid #111827;background:#2563eb;color:#fff;font-size:1.25rem;font-weight:700;box-shadow:0 6px 0 0 rgba(0,0,0,0.65);cursor:pointer;transition:all 0.2s ease}
+   .ms-btn-check:hover{transform:translateY(-2px);box-shadow:0 8px 0 0 rgba(0,0,0,0.55)}
+   .ms-btn-check:active{transform:translateY(2px);box-shadow:0 2px 0 0 rgba(0,0,0,0.65)}
+   .ms-btn-check:focus-visible{outline:3px solid #93c5fd;outline-offset:2px}
+   .ms-btn-retry{display:inline-block;padding:0.75rem 2rem;border-radius:1rem;border:2px solid #111827;background:#f59e0b;color:#111827;font-size:1.125rem;font-weight:700;box-shadow:0 6px 0 0 rgba(0,0,0,0.65);cursor:pointer;transition:all 0.2s ease}
+   .ms-btn-retry:hover{transform:translateY(-2px);box-shadow:0 8px 0 0 rgba(0,0,0,0.55)}
+   .ms-btn-retry:active{transform:translateY(2px);box-shadow:0 2px 0 0 rgba(0,0,0,0.65)}
+   .ms-btn-retry:focus-visible{outline:3px solid #fcd34d;outline-offset:2px}
+   @keyframes celebrateShake{0%,100%{transform:rotate(0deg) scale(1)}20%{transform:rotate(-3deg) scale(1.02)}40%{transform:rotate(3deg) scale(1.02)}60%{transform:rotate(-2deg) scale(1.01)}80%{transform:rotate(2deg) scale(1.01)}}
+   .ms-celebrate{animation:celebrateShake 0.6s ease-in-out}
+   @keyframes fadeInUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+   .ms-fade-in{animation:fadeInUp 0.4s ease-out forwards}
+  </style>
+  <div class="container content mx-auto w-full min-h-screen px-6 py-8 flex items-center justify-center" data-background-color="#FFFAF5" id="content">
+   <section data-id="mlt_p16_q4" data-section-type="" id="simple-main" role="article">
+    <div class="flex w-full flex-col items-center gap-6 px-4 py-6">
+     <div class="w-full max-w-3xl">
+      <header class="text-center mb-6">
+       <div class="text-5xl mb-3" aria-hidden="true">🌱</div>
+       <p class="text-2xl md:text-[28px] font-bold text-gray-900 tracking-tight" data-id="mlt_p16_q4_que">
+        Taja mazao mengine unayoyafahamu
+       </p>
+       <p class="mt-3 text-lg text-gray-600 font-medium" data-id="mlt_shared_inst">
+        Chagua majibu 3 sahihi ✨
+       </p>
+      </header>
+      <div class="text-center mb-5">
+       <span id="counter-text" class="inline-block px-4 py-2 rounded-full bg-blue-100 text-blue-700 font-semibold text-lg" role="status" aria-live="polite">0 / 3</span>
+      </div>
+      <div class="ms-grid" role="group" aria-label="Chagua majibu 3">
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="0">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🌸</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_3">Maua</span>
+       </div>
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="1">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🍌</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_2">Ndizi</span>
+       </div>
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="2">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🌾</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_0">Mpunga</span>
+       </div>
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="3">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🪴</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_5">Magugu</span>
+       </div>
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="4">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🌿</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_1">Nyasi</span>
+       </div>
+       <div class="ms-option" role="checkbox" aria-checked="false" tabindex="0" data-idx="5">
+        <div class="ms-check" aria-hidden="true">✓</div>
+        <div class="ms-result-icon" aria-hidden="true"></div>
+        <span class="text-4xl mb-2 block" aria-hidden="true">🥜</span>
+        <span class="block text-lg md:text-2xl text-gray-900 font-medium" data-id="mlt_p16_q4_opt_4">Karanga</span>
+       </div>
+      </div>
+      <div class="mt-8 text-center">
+       <button id="check-btn" class="ms-btn-check hidden" data-id="mlt_shared_btn_check">Angalia Majibu ✨</button>
+      </div>
+      <div id="result-area" class="hidden mt-6 text-center text-2xl font-bold text-gray-900 p-4 rounded-2xl" role="alert" aria-live="assertive"></div>
+      <div class="mt-4 text-center">
+       <button id="retry-btn" class="ms-btn-retry hidden" data-id="mlt_shared_btn_retry">Jaribu Tena 🔄</button>
+      </div>
+      <span class="hidden" data-id="mlt_shared_result_perfect" id="msg-perfect">🎉 Hongera! Majibu yote ni sahihi!</span>
+      <span class="hidden" data-id="mlt_shared_result_good" id="msg-good">👍 Karibu! Umepata 2 kati ya 3</span>
+      <span class="hidden" data-id="mlt_shared_result_try" id="msg-try">💪 Jaribu tena!</span>
+     </div>
+    </div>
+   </section>
+  </div>
+  <script>
+   (function(){document.body.style.backgroundColor='#FFFAF5';var c=document.getElementById('content');if(c){var bg=c.getAttribute('data-background-color');if(bg)c.style.backgroundColor=bg;}})();
+  </script>
+  <script>
+   (function () {
+     var CORRECT = [1, 2, 5];
+     var MAX = 3;
+     var selected = {};
+     var count = 0;
+     var checked = false;
+     var options = document.querySelectorAll('.ms-option');
+     var counterEl = document.getElementById('counter-text');
+     var checkBtn = document.getElementById('check-btn');
+     var resultArea = document.getElementById('result-area');
+     var retryBtn = document.getElementById('retry-btn');
+     function isCorrect(idx){for(var i=0;i<CORRECT.length;i++){if(CORRECT[i]===idx)return true;}return false;}
+     function updateCounter(){counterEl.textContent=count+' / '+MAX;counterEl.className=count===MAX?'inline-block px-4 py-2 rounded-full bg-green-100 text-green-700 font-semibold text-lg':'inline-block px-4 py-2 rounded-full bg-blue-100 text-blue-700 font-semibold text-lg';}
+     function updateOptions(){for(var i=0;i<options.length;i++){var opt=options[i];var idx=parseInt(opt.getAttribute('data-idx'));if(selected[idx]){opt.classList.add('ms-selected');opt.setAttribute('aria-checked','true');}else{opt.classList.remove('ms-selected');opt.setAttribute('aria-checked','false');}if(count>=MAX&&!selected[idx]){opt.classList.add('ms-dimmed');}else{opt.classList.remove('ms-dimmed');}}if(count===MAX&&!checked){checkBtn.classList.remove('hidden');}else{checkBtn.classList.add('hidden');}}
+     function toggle(idx){if(checked)return;if(selected[idx]){delete selected[idx];count--;}else if(count<MAX){selected[idx]=true;count++;}updateCounter();updateOptions();}
+     function check(){checked=true;var score=0;for(var i=0;i<options.length;i++){var opt=options[i];var idx=parseInt(opt.getAttribute('data-idx'));var cm=opt.querySelector('.ms-check');var ri=opt.querySelector('.ms-result-icon');if(cm)cm.style.display='none';if(selected[idx]){if(isCorrect(idx)){opt.classList.remove('ms-selected','ms-dimmed');opt.classList.add('ms-correct');if(ri){ri.style.display='flex';ri.style.background='#16a34a';ri.textContent='✓';}score++;}else{opt.classList.remove('ms-selected','ms-dimmed');opt.classList.add('ms-incorrect');if(ri){ri.style.display='flex';ri.style.background='#dc2626';ri.textContent='✗';}}}else{opt.classList.remove('ms-selected','ms-dimmed');if(isCorrect(idx)){opt.classList.add('ms-correct');opt.style.opacity='0.55';}}}checkBtn.classList.add('hidden');var msg;if(score===3){msg=document.getElementById('msg-perfect').textContent;resultArea.style.background='rgba(34,197,94,0.12)';resultArea.classList.add('ms-celebrate');}else if(score===2){msg=document.getElementById('msg-good').textContent;resultArea.style.background='rgba(59,130,246,0.1)';}else{msg=document.getElementById('msg-try').textContent;resultArea.style.background='rgba(249,115,22,0.1)';}resultArea.textContent=msg;resultArea.classList.remove('hidden');resultArea.classList.add('ms-fade-in');if(score<3){retryBtn.classList.remove('hidden');}}
+     function retry(){checked=false;selected={};count=0;for(var i=0;i<options.length;i++){var opt=options[i];opt.classList.remove('ms-selected','ms-dimmed','ms-correct','ms-incorrect');opt.setAttribute('aria-checked','false');opt.style.opacity='';var cm=opt.querySelector('.ms-check');var ri=opt.querySelector('.ms-result-icon');if(cm)cm.style.display='';if(ri)ri.style.display='none';}resultArea.classList.add('hidden');resultArea.classList.remove('ms-fade-in','ms-celebrate');resultArea.style.background='';retryBtn.classList.add('hidden');updateCounter();updateOptions();}
+     for(var i=0;i<options.length;i++){(function(idx){options[idx].addEventListener('click',function(){toggle(idx);});options[idx].addEventListener('keydown',function(e){if(e.key===' '||e.key==='Enter'){e.preventDefault();toggle(idx);}});})(i);}
+     checkBtn.addEventListener('click',check);retryBtn.addEventListener('click',retry);updateCounter();
+   })();
+  </script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/base.bundle.min.js?v=ccca6259" type="module"></script>
+ </body>
+</html>
