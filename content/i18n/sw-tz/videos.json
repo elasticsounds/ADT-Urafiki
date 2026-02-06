@@ -1,1 +1,23 @@
-{}
+{
+    "videoFiles": {
+        "video-1": "video/1.mp4",
+        "video-2": "video/2.mp4",
+        "video-3": "video/3.mp4",
+        "video-5": "video/5.mp4",
+        "video-6": "video/6.mp4",
+        "video-7": "video/7.mp4",
+        "video-8": "video/8.mp4",
+        "video-9": "video/9.mp4",
+        "video-10": "video/10.mp4",
+        "video-11": "video/11.mp4",
+        "video-12": "video/12.mp4",
+        "video-13": "video/13.mp4",
+        "video-14": "video/14.mp4",
+        "video-15": "video/15.mp4",
+        "video-16": "video/16.mp4",
+        "video-17": "video/17.mp4",
+        "video-18": "video/18.mp4",
+        "video-19": "video/19.mp4",
+        "video-20": "video/20.mp4"
+    }
+}

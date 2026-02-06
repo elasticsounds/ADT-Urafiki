@@ -102,27 +102,32 @@
   {
     "section_id": "mlt_p16_q1",
     "href": "mlt_p16_q1.html",
-    "page_number": 14
+    "page_number": 14,
+    "page_label": "Q1"
   },
   {
     "section_id": "mlt_p16_q2",
     "href": "mlt_p16_q2.html",
-    "page_number": 14
+    "page_number": 14,
+    "page_label": "Q2"
   },
   {
     "section_id": "mlt_p16_q3",
     "href": "mlt_p16_q3.html",
-    "page_number": 14
+    "page_number": 14,
+    "page_label": "Q3"
   },
   {
     "section_id": "mlt_p16_q4",
     "href": "mlt_p16_q4.html",
-    "page_number": 14
+    "page_number": 14,
+    "page_label": "Q4"
   },
   {
     "section_id": "mlt_p16_q5",
     "href": "mlt_p16_q5.html",
-    "page_number": 14
+    "page_number": 14,
+    "page_label": "Q5"
   },
   {
     "section_id": "sec_p16_s1",

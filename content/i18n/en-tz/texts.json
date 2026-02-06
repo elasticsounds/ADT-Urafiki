@@ -310,7 +310,7 @@
   "txt_p1_g2_t11_easy_read": "An ISBN is a special number for a book. This number identifies each book. You can find it on the back cover. It helps you find and buy the right book.",
   "txt_p1_g2_t5_easy_read": "Name of the book or article.",
   "txt_p2_g3_t3_easy_read": "Dar es Salaam",
-  "img_p3_r0": "A man dressed in black clothing is sitting on a small stool under a tree, watching a dog and a fox sitting in front of him; in the background there are two mud huts with thatched roofs, a green hill, and birds flying in the sky, while a large cooking spoon is leaning against the trunk of the tree.",
+  "img_p3_r0": "A man dressed in black clothing is sitting on a small stool under a tree, watching a dog and a fox sitting in front of him; in the background there are two mud huts with thatched roofs, a green hill, and birds flying in the sky, while a large club is leaning against the trunk of the tree.",
   "txt_p16_g7_t0_easy_read": "It is number fourteen.",
   "txt_p1_g2_t0_easy_read": "Tanzania is a union country.",
   "qiz_sec_p5_s0_opt_2": "3) They just slept",
@@ -347,6 +347,9 @@
   "mlt_p16_q3_opt_3": "Fire destroyed all the crops",
   "mlt_p16_q3_opt_4": "He broke the agreement",
   "mlt_p16_q3_opt_5": "He ran away with the dog",
+  "mlt_p16_q3_inst": "Choose the correct answer ✨",
+  "mlt_p16_q3_result_correct": "🎉 Correct! Well done!",
+  "mlt_p16_q3_result_wrong": "💪 Not correct. Try again!",
   "mlt_p16_q4_que": "List other crops that you know",
   "mlt_p16_q4_opt_0": "Rice",
   "mlt_p16_q4_opt_1": "Grass",
@@ -360,5 +363,8 @@
   "mlt_p16_q5_opt_2": "Dog is bigger than fox",
   "mlt_p16_q5_opt_3": "Fox destroyed the crops",
   "mlt_p16_q5_opt_4": "Dog knew how to cook",
-  "mlt_p16_q5_opt_5": "Human chased fox away"
+  "mlt_p16_q5_opt_5": "Human chased fox away",
+  "mlt_p16_q5_inst": "Choose the correct answer ✨",
+  "mlt_p16_q5_result_correct": "🎉 Correct! Well done!",
+  "mlt_p16_q5_result_wrong": "💪 Not correct. Try again!"
 }
